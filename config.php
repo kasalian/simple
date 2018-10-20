@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Kasalian PHP Website',
+        'name' => 'Kasalian PHP Website still struggling',
         'nav_menu' => [
             '' => 'Home',
             'about-us' => 'About Us',
