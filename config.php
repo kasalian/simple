@@ -8,12 +8,12 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Kasalian PHP Website still struggling',
+        'name' => 'Haaah! Finnally Crontab is not easy',
         'nav_menu' => [
-            '' => 'Home',
-            'about-us' => 'About Us',
-            'products' => 'Products',
-            'contact' => 'Contact',
+            '' => 'Crontab',
+            'about-us' => 'About crontab',
+            'products' => 'Products crontab',
+            'contact' => 'Contact Scripting',
         ],
         'template_path' => 'template',
         'content_path' => 'content',
